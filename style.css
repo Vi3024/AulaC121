@@ -1,0 +1,42 @@
+  h3 {
+    color: white;
+  }
+  
+  .heading
+  {
+    background-image: radial-gradient(#2f776f, #478f87, #60a89f, #78c0b6, #90d8ce);
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(137, 137, 138);
+  }
+  .headingDiv
+  { float: none;
+    background: rgb(0, 0, 0) ;
+    padding: 10px; 
+    border-radius: 20px; 
+    color: rgb(255, 255, 255);
+    box-shadow:5px 5px 5px rgb(153, 148, 148);
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultToTag
+  {
+    background-image: radial-gradient(#3b8986, #9eece8);
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .copyRightFooter
+  {
+    position: fixed;
+    color: white;
+    bottom:0;
+    width: 100%;
+    background-color: #478f87;
+    line-height: 3;
+    text-align: center;
+  }
+ 
